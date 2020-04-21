@@ -5,7 +5,7 @@ Algorithm used is: DES (Data Encryption Standard)
 
 # Usage Example
 ```js
-const { Otcrypt } = require('./src/index');
+const { Otcrypt } = require('./src');
 
 const SECRET = 'SECRET_HASH';
 
