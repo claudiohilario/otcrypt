@@ -1,5 +1,6 @@
 # otcrypt
 Simple library to encrypt and decrypt strings in nodejs.
+
 Algorithm used is: DES (Data Encryption Standard)
 
 # Usage Example
