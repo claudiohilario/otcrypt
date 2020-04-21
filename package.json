@@ -1,0 +1,23 @@
+{
+  "name": "otcrypt",
+  "version": "1.0.0",
+  "description": "Simple library to encrypt and decrypt strings in nodejs.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiohilario/otcrypt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiohilario/otcrypt/issues"
+  },
+  "homepage": "https://github.com/claudiohilario/otcrypt#readme",
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  }
+}
